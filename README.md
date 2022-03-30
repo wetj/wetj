@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wetj
 - 👀 I’m interested in C programming
-- 🌱 I’m currently learning C programming
+- 🌱 I’m currently learning C, python, and javascript programming
 - 💞️ I’m looking to collaborate on anything I can.
 - 📫 How to reach me: just message me on Github
 
